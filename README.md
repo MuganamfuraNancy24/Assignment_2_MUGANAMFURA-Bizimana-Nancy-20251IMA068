@@ -11,4 +11,6 @@ Name: Muganamfura Bizimana Nancy Student ID: 20251IMA068
 ## PDB creation (command + result visible
 [Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/95e04cce12b27c37d6e044b49c65d9c5e00ccbca/Screenshot%202026-09-22%20161957.png)
 ## PDB deletion (command + result visible
-[Screenshot] (
+[Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/ba5f0512575783c0c59cc2a7458af34068bc594f/Screenshot%202026-09-22%20162355.png)
+## Task 3: Oracle Enterprise Manager (OEM)
+## Clear screenshot of the OEM dashboard
