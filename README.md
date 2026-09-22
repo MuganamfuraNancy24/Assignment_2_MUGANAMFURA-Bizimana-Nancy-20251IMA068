@@ -9,4 +9,6 @@ Name: Muganamfura Bizimana Nancy Student ID: 20251IMA068
 [Screenshot] https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/4cdc08408ff790841592d4fe0f6088b424034337/Screenshot%202026-09-21%20082251.png)
 ## Task 2: Create and Delete a PDB
 ## PDB creation (command + result visible
-
+[Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/95e04cce12b27c37d6e044b49c65d9c5e00ccbca/Screenshot%202026-09-22%20161957.png)
+## PDB deletion (command + result visible
+[Screenshot] (
