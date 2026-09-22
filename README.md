@@ -4,3 +4,6 @@ Name: Muganamfura Bizimana Nancy Student ID: 20251IMA068
 ## PDB creation command
 [Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/188c16d04f111d4458488d30873325a7d77bd6dd/Screenshot%202026-09-21%20082221.png)
 ## PDB open state
+[Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/4dd4183e59bcc18c17c47b09c42b5f0a28f0caa6/Screenshot%202026-09-21%20082221.png)
+## User created inside PDB (username clearly visible
+[Screenshot] 
