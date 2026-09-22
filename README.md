@@ -14,3 +14,13 @@ Name: Muganamfura Bizimana Nancy Student ID: 20251IMA068
 [Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/ba5f0512575783c0c59cc2a7458af34068bc594f/Screenshot%202026-09-22%20162355.png)
 ## Task 3: Oracle Enterprise Manager (OEM)
 ## Clear screenshot of the OEM dashboard
+
+
+
+## Oracle Environment Used
+Database: Oracle Database 21c
+Tool: Oracle SQL Developer / SQL Plus
+Operating System: Windows
+Database Architecture: Container Database (CDB) with Pluggable Databases (PDBs)
+Database User: Administrative user with privileges to create and delete PDBs
+
