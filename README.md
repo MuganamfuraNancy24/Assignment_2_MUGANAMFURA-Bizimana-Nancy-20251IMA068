@@ -17,9 +17,7 @@ A temporary PDB  was created and verified in Oracle Database 21c. After completi
 [Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/ba5f0512575783c0c59cc2a7458af34068bc594f/Screenshot%202026-09-22%20162355.png)
 ## Task 3: Oracle Enterprise Manager (OEM)
 ## Clear screenshot of the OEM dashboard
-
-
-
+[Screenshot] (https://github.com/MuganamfuraNancy24/Assignment_2_MUGANAMFURA-Bizimana-Nancy-20251IMA068/blob/9a1aedeba34e81ae07851c0e0efe797e525e0f03/Screenshot%202026-09-22%20215843.png)
 ## Oracle Environment Used
 Database: Oracle Database 21c
 Tool: Oracle SQL Developer / SQL Plus
